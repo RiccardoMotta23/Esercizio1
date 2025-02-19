@@ -5,5 +5,5 @@ y = 20
 
 somma = x+y
 
-# risultato
+# risultato della somma
 print(f"La somma di {x} e {y} è: {somma}")
